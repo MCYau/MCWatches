@@ -34,7 +34,8 @@ FLUSH TABLES;
 ***  Instructions on how to run the program ***
 
 1. Search for the folder htdocs located inside the xampp folder.
-2. Paste the folder name “MCWatches” inside htdocs.
+2. Once you downloaded the zip file and extracted it, rename the file to "MCWatches"
+2. Copy and Paste the folder name “MCWatches” inside htdocs.
 3. Launch the web browser.
 4. Type in http://localhost/MCWatches/index.php
 5. It will display the homepage of the website
